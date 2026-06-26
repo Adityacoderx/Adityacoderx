@@ -9,7 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2557,50:2563eb,100:0ea5e9&height=200&section=header&text=Aditya%20Nadhediya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Cloud&descAlignY=58&descAlign=50" width="100%"/>
 </a>
 
-<!-- TYPING ANIMATION -->
 <a href="https://github.com/Adityacoderx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+%40+BTU+'28;Microsoft+AI%2FML+Intern;NIELIT+DevSecOps+%7C+Grade+S;Top+1%25+Nationally+%E2%80%A2+AIR+5950;Building+AI+that+actually+matters" alt="Typing SVG" />
 </a>
@@ -84,21 +83,7 @@ class AdityaNadhediya:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logo=githubactions&logoColor=white)
-
-</div>
-
-<!-- ===================== GITHUB STATS ===================== -->
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityacoderx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=0ea5e9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacoderx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityacoderx&theme=tokyonight&hide_border=true&background=0d1117&stroke=2563eb&ring=0ea5e9&fire=fbbf24&currStreakLabel=2563eb" alt="GitHub Streak"/>
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -108,6 +93,32 @@ class AdityaNadhediya:
 ### 🚀 Featured Projects
 
 </div>
+
+<!-- HERO PROJECT: GRIDLOCK SENTINEL -->
+<table align="center" width="100%">
+<tr>
+<td valign="top">
+
+#### 🚦 GRIDLOCK SENTINEL — Flipkart Gridlock Hackathon 2.0
+> An AI-powered traffic-enforcement command center for Bengaluru Traffic Police, built on ~300K real violation records.
+
+| Module | What it does |
+|--------|-------------|
+| 🎯 **COMMAND** | Enforcement Priority Score per zone + Getis-Ord Gi★ statistical hotspots (99% confidence) |
+| 🔮 **FORESIGHT** | Early-warning module flagging zones heating toward chronic congestion (0.94 ROC-AUC) |
+| 🚔 **OFFENDERS** | Chronic-offender registry + enforcement-efficiency & congestion-impact index |
+| 🗺️ **PATROL** | TSP-based route optimizer — shortest patrol loop + ROI estimator (₹7.3 cr recoverable) |
+
+**Built with** `Vanilla JS` `Leaflet` `Three.js` `Getis-Ord Gi★` `TSP Optimization`
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white)](https://gridlock-sentinel.netlify.app)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Adityacoderx)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <table align="center">
 <tr>
@@ -173,21 +184,12 @@ class AdityaNadhediya:
 </tr>
 </table>
 
-<!-- ===================== TROPHIES ===================== -->
+<!-- ===================== TOP LANGUAGES ===================== -->
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 📊 Most Used Languages
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityacoderx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
-
-</div>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityacoderx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563eb&line=0ea5e9&point=fbbf24" alt="Activity Graph" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacoderx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb" alt="Top Languages"/>
 
 </div>
 

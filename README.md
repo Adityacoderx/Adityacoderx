@@ -1,217 +1,127 @@
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ADITYA NADHEDIYA · README                    ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
-<!-- ===================== ANIMATED HERO BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d81,100:ffb020&height=200&section=header&text=Aditya%20Nadhediya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <a href="https://aditya-nadhediya-personalportfolio.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2557,50:2563eb,100:0ea5e9&height=200&section=header&text=Aditya%20Nadhediya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Cloud&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF3D81&center=true&vCenter=true&width=620&lines=Full+Stack+%26+AI+Developer;AI%2FML+Engineer;DevSecOps+Practitioner;CS+Undergrad+%40+BTU+'28" alt="Typing SVG" />
 </a>
-
-<a href="https://github.com/Adityacoderx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+%40+BTU+'28;Microsoft+AI%2FML+Intern;NIELIT+DevSecOps+%7C+Grade+S;Top+1%25+Nationally+%E2%80%A2+AIR+5950;Building+AI+that+actually+matters" alt="Typing SVG" />
-</a>
-
-</div>
-
-<!-- ===================== PROFILE BADGES ===================== -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Adityacoderx&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Top%201%25%20Nationally-AIR%205950-fbbf24?style=for-the-badge&logo=trophy&logoColor=white" alt="Top 1%"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge" alt="Open to work"/>
-
-</div>
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
-<table align="center" width="100%">
-<tr>
-<td width="60%" valign="top">
+![Top 1% Nationally](https://img.shields.io/badge/Top%201%25%20Nationally-AIR%205950-ff3d81?style=for-the-badge)
+![Location](https://img.shields.io/badge/Rajasthan-India-ffb020?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-1f1f2e?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Adityacoderx&label=Profile%20views&color=ff3d81&style=for-the-badge" alt="views" />
 
-### 👋 About Me
+</div>
+
+<!-- ===================== ABOUT ===================== -->
+## 👋 About Me
 
 ```python
-class AdityaNadhediya:
+class Aditya:
     def __init__(self):
-        self.role        = "CS Undergrad @ BTU '28"
-        self.location    = "Bikaner, Rajasthan, India"
-        self.focus       = ["AI/ML", "DevSecOps", "Cloud"]
-        self.interned_at = ["Microsoft", "NIELIT × Kyndryl"]
-        self.certified   = "Microsoft Azure (AZ-900)"
-        self.rank        = "Top 1% · AIR 5950 / 100k+"
-
-    def current_mission(self):
-        return "Cracking DSA + System Design → 25 LPA"
-
-    def philosophy(self):
-        return "I don't wait for opportunity. I build toward it."
+        self.name      = "Aditya Nadhediya"
+        self.role      = "Full Stack & AI Developer"
+        self.education = "B.Tech CSE @ Bikaner Technical University ('28)"
+        self.focus     = ["AI / Machine Learning", "DevSecOps", "Cloud"]
+        self.mindset   = "I don't wait for opportunity — I build toward it."
 ```
 
-</td>
-<td width="40%" valign="top">
-
-### ⚡ Quick Facts
-
-- 🔭 Building **real-time AI systems**
-- 🌱 Mastering **DSA & System Design**
-- 🏆 **Top 1%** Naukri Young Turks 2025
-- ☁️ **Azure Certified** (AZ-900)
-- 💼 Ex-**Microsoft** AI/ML Intern
-- 🔐 **DevSecOps** — Grade S @ NIELIT
-- 📫 adityanadhediya1753@gmail.com
-
-</td>
-</tr>
-</table>
+Computer Science engineer from Bikaner, building real-time AI systems — from computer-vision models to AI-powered analytics platforms. Microsoft AI/ML intern, DevSecOps **Grade S**, Azure certified, and ranked in the **national Top 1%**. Currently sharpening DSA, system design, and shipping projects that solve real problems.
 
 <!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Tools & Data**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+### 🚦 [Gridlock Sentinel](https://gridlock-sentinel.netlify.app)
+> AI traffic-enforcement command center for **Bengaluru Traffic Police**, built on **~300K real violations**. Features Getis-Ord Gi★ statistical hotspot detection, an early-warning model (**0.94 ROC-AUC**), a chronic-offender registry, and a TSP patrol-route optimizer.
+
+`Vanilla JS` · `Leaflet` · `Three.js` · `Statistical Modeling` — 🔗 **[Live Demo](https://gridlock-sentinel.netlify.app)**
+
+---
+
+### 🤟 [ASL Recognition System](https://github.com/Adityacoderx/Aditya_Nadhediya_sign_language)
+> Real-time American Sign Language detector classifying **44 gestures** via webcam at **90%+ accuracy**. Built with a CNN + OpenCV pipeline plus text-to-speech — created during my **Microsoft internship** for 466M+ hearing-impaired users.
+
+`Python` · `TensorFlow` · `Keras` · `OpenCV` — 🔗 **[View Code](https://github.com/Adityacoderx/Aditya_Nadhediya_sign_language)**
+
+---
+
+### 🤖 [Location Intelligence Agent](https://github.com/Adityacoderx/google-mcp-examples)
+> Agentic AI built during the **Google × GeeksforGeeks** workshop using Google ADK and MCP servers. Integrates BigQuery and Google Maps to analyze foot traffic and recommend optimal business locations.
+
+`Python` · `Google ADK` · `BigQuery` · `FastAPI` — 🔗 **[View Code](https://github.com/Adityacoderx/google-mcp-examples)**
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏆 Achievements & Certifications
+
+- 🥇 **Top 1% Nationally** — Naukri Young Turks 2025 · 98.83 percentile · AIR 5950
+- 🚀 **Start-Up Innovation Winner** — BTU E-Cell, 2024
+- 🛡️ **DevSecOps Certification** — NIELIT × Kyndryl · **Grade S (80/95)** — top grade in the program
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- 🤖 **Build with AI Agent Builder Camp** — Google × GeeksforGeeks
+- 🧠 **AI & ML Certification** — Microsoft × AICTE (Edunet Foundation)
+
+<!-- ===================== CONNECT ===================== -->
+## 🌐 Connect With Me
+
 <div align="center">
 
-### 🛠️ Tech Arsenal
-
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,aws,azure,gcp,git,github,linux,html,css,js,vscode&theme=dark" alt="Tech Stack"/>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logo=githubactions&logoColor=white)
+<a href="https://linkedin.com/in/adityanadhediya">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://aditya-nadhediya-personalportfolio.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-ff3d81?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:adityanadhediya1753@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Adityacoderx">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-<div align="center">
-
-### 🚀 Featured Projects
-
-</div>
-
-<!-- HERO PROJECT: GRIDLOCK SENTINEL -->
-<table align="center" width="100%">
-<tr>
-<td valign="top">
-
-#### 🚦 GRIDLOCK SENTINEL — Flipkart Gridlock Hackathon 2.0
-> An AI-powered traffic-enforcement command center for Bengaluru Traffic Police, built on ~300K real violation records.
-
-| Module | What it does |
-|--------|-------------|
-| 🎯 **COMMAND** | Enforcement Priority Score per zone + Getis-Ord Gi★ statistical hotspots (99% confidence) |
-| 🔮 **FORESIGHT** | Early-warning module flagging zones heating toward chronic congestion (0.94 ROC-AUC) |
-| 🚔 **OFFENDERS** | Chronic-offender registry + enforcement-efficiency & congestion-impact index |
-| 🗺️ **PATROL** | TSP-based route optimizer — shortest patrol loop + ROI estimator (₹7.3 cr recoverable) |
-
-**Built with** `Vanilla JS` `Leaflet` `Three.js` `Getis-Ord Gi★` `TSP Optimization`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white)](https://gridlock-sentinel.netlify.app)
-[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Adityacoderx)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-#### 🤟 ASL Recognition System
-> Real-time American Sign Language detector
-
-- **44 gestures** classified via webcam
-- **90%+ accuracy** using CNN + OpenCV
-- Text-to-speech + gesture calculator
-- Built for **466M+** hearing-impaired users
-
-`Python` `TensorFlow` `Keras` `OpenCV`
-
-[![Repo](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/Adityacoderx/Aditya_Nadhediya_sign_language)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 Location Intelligence AI Agent
-> Built @ Google × GeeksforGeeks Workshop
-
-- Agentic AI using **Google ADK**
-- **BigQuery** + **Google Maps** APIs
-- MCP servers on **Cloud Shell**
-- Foot-traffic analytics for decisions
-
-`Python` `Google ADK` `BigQuery` `FastAPI`
-
-[![Repo](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/Adityacoderx)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 Personal Portfolio
-> Fully responsive developer portfolio
-
-- Optimized asset delivery + lazy loading
-- **35%** faster page load speed
-- Clean, modern, mobile-first design
-
-`HTML` `CSS` `JavaScript`
-
-[![Live](https://img.shields.io/badge/Live%20Demo-0ea5e9?style=flat-square&logo=netlify&logoColor=white)](https://aditya-nadhediya-personalportfolio.netlify.app)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎓 Credentials & Wins
-> Recognition that speaks for itself
-
-- 🏆 **Top 1%** · AIR 5950 / 100k+
-- 💼 **Microsoft** AI/ML Intern
-- 🔐 **NIELIT** DevSecOps · Grade S
-- ☁️ **Azure** Certified (AZ-900)
-
-`Achievements` `Certifications`
-
-</td>
-</tr>
-</table>
-
-<!-- ===================== TOP LANGUAGES ===================== -->
 <div align="center">
-
-### 📊 Most Used Languages
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacoderx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563eb" alt="Top Languages"/>
-
+  <i>⭐ From <a href="https://github.com/Adityacoderx">Adityacoderx</a> — building toward the next leap.</i>
 </div>
 
-<!-- ===================== CONNECT ===================== -->
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://linkedin.com/in/adityanadhediya">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:adityanadhediya1753@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://aditya-nadhediya-personalportfolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<i>"From Bikaner to the big leagues — building, learning, and leveling up every single day."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:0f2557&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb020,100:ff3d81&height=120&section=footer" width="100%" />

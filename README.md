@@ -14,6 +14,9 @@
 ![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-1f1f2e?style=for-the-badge)
 <img src="https://komarev.com/ghpvc/?username=Adityacoderx&label=Profile%20views&color=ff3d81&style=for-the-badge" alt="views" />
 
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3d81,100:ffb020&height=3" />
+
 </div>
 
 <!-- ===================== ABOUT ===================== -->
@@ -31,62 +34,108 @@ class Aditya:
 
 Computer Science engineer from Bikaner, building real-time AI systems — from computer-vision models to AI-powered analytics platforms. Microsoft AI/ML intern, DevSecOps **Grade S**, Azure certified, and ranked in the **national Top 1%**. Currently sharpening DSA, system design, and shipping projects that solve real problems.
 
+- 🔭 Building &nbsp;→ **AI-driven web platforms & computer-vision systems**
+- 🌱 Learning &nbsp;→ **Advanced DSA, System Design & Cloud architecture**
+- 🎯 Goal &emsp;&emsp;→ **SDE / ML Engineer at a top product company**
+- ⚡ Fun fact &nbsp;→ **From a city with no tech ecosystem — built it all on curiosity**
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb020,100:ff3d81&height=3" />
+</div>
+
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,tensorflow,opencv,aws,gcp,azure,linux,git,github,fastapi,vscode,postgres&perline=8" />
 
-**AI / Machine Learning**
+<br/><br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-ff3d81?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
 
-**Cloud & DevOps**
+</div>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Tools & Data**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3d81,100:ffb020&height=3" />
+</div>
 
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚦 [Gridlock Sentinel](https://gridlock-sentinel.netlify.app)
-> AI traffic-enforcement command center for **Bengaluru Traffic Police**, built on **~300K real violations**. Features Getis-Ord Gi★ statistical hotspot detection, an early-warning model (**0.94 ROC-AUC**), a chronic-offender registry, and a TSP patrol-route optimizer.
+AI traffic-enforcement command center for **Bengaluru Traffic Police** on **~300K real violations** — Gi★ statistical hotspots, an early-warning model (**0.94 ROC-AUC**), a chronic-offender registry & a TSP patrol-route optimizer.
 
-`Vanilla JS` · `Leaflet` · `Three.js` · `Statistical Modeling` — 🔗 **[Live Demo](https://gridlock-sentinel.netlify.app)**
+`Vanilla JS` · `Leaflet` · `Three.js`
 
----
+**[🔗 Live Demo](https://gridlock-sentinel.netlify.app)**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤟 [ASL Recognition System](https://github.com/Adityacoderx/Aditya_Nadhediya_sign_language)
-> Real-time American Sign Language detector classifying **44 gestures** via webcam at **90%+ accuracy**. Built with a CNN + OpenCV pipeline plus text-to-speech — created during my **Microsoft internship** for 466M+ hearing-impaired users.
+Real-time American Sign Language detector classifying **44 gestures** at **90%+ accuracy** with a CNN + OpenCV pipeline and text-to-speech — built during my **Microsoft internship** for 466M+ users.
 
-`Python` · `TensorFlow` · `Keras` · `OpenCV` — 🔗 **[View Code](https://github.com/Adityacoderx/Aditya_Nadhediya_sign_language)**
+`Python` · `TensorFlow` · `Keras` · `OpenCV`
 
----
+**[🔗 View Code](https://github.com/Adityacoderx/Aditya_Nadhediya_sign_language)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 [Location Intelligence Agent](https://github.com/Adityacoderx/google-mcp-examples)
-> Agentic AI built during the **Google × GeeksforGeeks** workshop using Google ADK and MCP servers. Integrates BigQuery and Google Maps to analyze foot traffic and recommend optimal business locations.
+Agentic AI built during the **Google × GeeksforGeeks** workshop using Google ADK & MCP servers — integrates BigQuery and Google Maps to surface foot-traffic insights for business locations.
 
-`Python` · `Google ADK` · `BigQuery` · `FastAPI` — 🔗 **[View Code](https://github.com/Adityacoderx/google-mcp-examples)**
+`Python` · `Google ADK` · `BigQuery` · `FastAPI`
+
+**[🔗 View Code](https://github.com/Adityacoderx/google-mcp-examples)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Personal Portfolio](https://aditya-nadhediya-personalportfolio.netlify.app)
+Fully responsive 3D portfolio with a Three.js particle background, optimized asset delivery & lazy-loaded media — **35% faster** page loads via minification and compression.
+
+`HTML` · `CSS` · `JavaScript` · `Three.js`
+
+**[🔗 Live Site](https://aditya-nadhediya-personalportfolio.netlify.app)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb020,100:ff3d81&height=3" />
+</div>
+
+<!-- ===================== SNAKE ===================== -->
+## 🐍 My Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityacoderx/Adityacoderx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityacoderx/Adityacoderx/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Adityacoderx/Adityacoderx/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3d81,100:ffb020&height=3" />
+</div>
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements & Certifications
@@ -97,6 +146,19 @@ Computer Science engineer from Bikaner, building real-time AI systems — from c
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - 🤖 **Build with AI Agent Builder Camp** — Google × GeeksforGeeks
 - 🧠 **AI & ML Certification** — Microsoft × AICTE (Edunet Foundation)
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb020,100:ff3d81&height=3" />
+</div>
+
+<!-- ===================== QUOTE ===================== -->
+<div align="center">
+
+### 💭 Dev Mantra
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+
+</div>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🌐 Connect With Me

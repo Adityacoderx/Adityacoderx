@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d81,100:ffb020&height=200&section=header&text=Aditya%20Nadhediya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d81,100:ffb020&height=200&section=header&text=Aditya%20Nadhediya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 <a href="https://aditya-nadhediya-personalportfolio.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF3D81&center=true&vCenter=true&width=620&lines=Full+Stack+%26+AI+Developer;AI%2FML+Engineer;DevSecOps+Practitioner;CS+Undergrad+%40+BTU+'28" alt="Typing SVG" />
